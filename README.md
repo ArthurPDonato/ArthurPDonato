@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu me chamo Arthur Donato</h1>
 
 
-- 🔭 Atualmente estou buscando uma vaga na área de Dados como cientista ou analista de dados**
+- 🔭 Atualmente estou buscando uma vaga na área de Dados como **cientista ou analista de dados**
   
 - 🌱Atualmente estou aprendendo **Python, Business Inteligence e SQL**
 
